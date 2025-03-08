@@ -6,7 +6,7 @@ Zomato Data Analysis Project using Python for Data Exploration and Insights
 * [Brief](#Brief)
 * [DataSet](#DataSet)
 * [Questions_Answered](#QuestionsAnswered)
-* [How It Works](#HowItWorks)
+* [How_It_Works](#HowItWorks)
 * [Tools](#Tools)
 * [Remarks](#Remarks)
 
@@ -48,7 +48,7 @@ Which type of restaurant receives more offline orders, so that Zomato can provid
 
 
 
-# How It Works
+# HowItWorks
 
 - The dataset is loaded and cleaned to handle missing values.
 
