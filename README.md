@@ -5,8 +5,8 @@ Zomato Data Analysis Project using Python for Data Exploration and Insights
 
 * [Brief](#Brief)
 * [DataSet](#DataSet)
-* [Questions_Answered](#QuestionsAnswered)
-* [How_It_Works](#HowItWorks)
+* [Questions Answered](#QuestionsAnswered)
+* [How It Works](#HowItWorks)
 * [Tools](#Tools)
 * [Remarks](#Remarks)
 
